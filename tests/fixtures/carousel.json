@@ -1,0 +1,274 @@
+{
+  "data": {
+    "xig_polaris_media": {
+      "if_not_gated_logged_out": {
+        "code": "DdEZgWTlGfB",
+        "pk": "123",
+        "media_type": 8,
+        "user": {
+          "username": "example"
+        },
+        "caption": {
+          "text": "fixture"
+        },
+        "taken_at": 1700000000,
+        "like_count": 0,
+        "comment_count": 0,
+        "carousel_media": [
+          {
+            "media_type": 1,
+            "original_width": 2769,
+            "original_height": 1858,
+            "image_versions2": {
+              "candidates": [
+                {
+                  "url": "https://s.cdninstagram.com/0.jpg",
+                  "width": 1080,
+                  "height": 1350
+                }
+              ]
+            }
+          },
+          {
+            "media_type": 1,
+            "original_width": 2705,
+            "original_height": 1815,
+            "image_versions2": {
+              "candidates": [
+                {
+                  "url": "https://s.cdninstagram.com/1.jpg",
+                  "width": 1080,
+                  "height": 1350
+                }
+              ]
+            }
+          },
+          {
+            "media_type": 1,
+            "original_width": 2766,
+            "original_height": 1856,
+            "image_versions2": {
+              "candidates": [
+                {
+                  "url": "https://s.cdninstagram.com/2.jpg",
+                  "width": 1080,
+                  "height": 1350
+                }
+              ]
+            }
+          },
+          {
+            "media_type": 1,
+            "original_width": 2766,
+            "original_height": 1856,
+            "image_versions2": {
+              "candidates": [
+                {
+                  "url": "https://s.cdninstagram.com/3.jpg",
+                  "width": 1080,
+                  "height": 1350
+                }
+              ]
+            }
+          },
+          {
+            "media_type": 1,
+            "original_width": 2047,
+            "original_height": 1373,
+            "image_versions2": {
+              "candidates": [
+                {
+                  "url": "https://s.cdninstagram.com/4.jpg",
+                  "width": 1080,
+                  "height": 1350
+                }
+              ]
+            }
+          },
+          {
+            "media_type": 1,
+            "original_width": 1343,
+            "original_height": 902,
+            "image_versions2": {
+              "candidates": [
+                {
+                  "url": "https://s.cdninstagram.com/5.jpg",
+                  "width": 1080,
+                  "height": 1350
+                }
+              ]
+            }
+          },
+          {
+            "media_type": 1,
+            "original_width": 1343,
+            "original_height": 902,
+            "image_versions2": {
+              "candidates": [
+                {
+                  "url": "https://s.cdninstagram.com/6.jpg",
+                  "width": 1080,
+                  "height": 1350
+                }
+              ]
+            }
+          },
+          {
+            "media_type": 1,
+            "original_width": 2766,
+            "original_height": 1856,
+            "image_versions2": {
+              "candidates": [
+                {
+                  "url": "https://s.cdninstagram.com/7.jpg",
+                  "width": 1080,
+                  "height": 1350
+                }
+              ]
+            }
+          },
+          {
+            "media_type": 1,
+            "original_width": 1343,
+            "original_height": 902,
+            "image_versions2": {
+              "candidates": [
+                {
+                  "url": "https://s.cdninstagram.com/8.jpg",
+                  "width": 1080,
+                  "height": 1350
+                }
+              ]
+            }
+          },
+          {
+            "media_type": 1,
+            "original_width": 2766,
+            "original_height": 1856,
+            "image_versions2": {
+              "candidates": [
+                {
+                  "url": "https://s.cdninstagram.com/9.jpg",
+                  "width": 1080,
+                  "height": 1350
+                }
+              ]
+            }
+          },
+          {
+            "media_type": 1,
+            "original_width": 2766,
+            "original_height": 1856,
+            "image_versions2": {
+              "candidates": [
+                {
+                  "url": "https://s.cdninstagram.com/10.jpg",
+                  "width": 1080,
+                  "height": 1350
+                }
+              ]
+            }
+          },
+          {
+            "media_type": 1,
+            "original_width": 2653,
+            "original_height": 1780,
+            "image_versions2": {
+              "candidates": [
+                {
+                  "url": "https://s.cdninstagram.com/11.jpg",
+                  "width": 1080,
+                  "height": 1350
+                }
+              ]
+            }
+          },
+          {
+            "media_type": 1,
+            "original_width": 2766,
+            "original_height": 1856,
+            "image_versions2": {
+              "candidates": [
+                {
+                  "url": "https://s.cdninstagram.com/12.jpg",
+                  "width": 1080,
+                  "height": 1350
+                }
+              ]
+            }
+          },
+          {
+            "media_type": 1,
+            "original_width": 2766,
+            "original_height": 1856,
+            "image_versions2": {
+              "candidates": [
+                {
+                  "url": "https://s.cdninstagram.com/13.jpg",
+                  "width": 1080,
+                  "height": 1350
+                }
+              ]
+            }
+          },
+          {
+            "media_type": 1,
+            "original_width": 2764,
+            "original_height": 1854,
+            "image_versions2": {
+              "candidates": [
+                {
+                  "url": "https://s.cdninstagram.com/14.jpg",
+                  "width": 1080,
+                  "height": 1350
+                }
+              ]
+            }
+          },
+          {
+            "media_type": 1,
+            "original_width": 2766,
+            "original_height": 1856,
+            "image_versions2": {
+              "candidates": [
+                {
+                  "url": "https://s.cdninstagram.com/15.jpg",
+                  "width": 1080,
+                  "height": 1350
+                }
+              ]
+            }
+          },
+          {
+            "media_type": 1,
+            "original_width": 1343,
+            "original_height": 902,
+            "image_versions2": {
+              "candidates": [
+                {
+                  "url": "https://s.cdninstagram.com/16.jpg",
+                  "width": 1080,
+                  "height": 1350
+                }
+              ]
+            }
+          },
+          {
+            "media_type": 1,
+            "original_width": 1343,
+            "original_height": 902,
+            "image_versions2": {
+              "candidates": [
+                {
+                  "url": "https://s.cdninstagram.com/17.jpg",
+                  "width": 1080,
+                  "height": 1350
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}

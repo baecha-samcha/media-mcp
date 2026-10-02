@@ -1,0 +1,17 @@
+.venv/
+oauth-v1/
+*.sqlite3*
+__pycache__/
+*.pyc
+.env
+cookies*
+*.cookies
+post.json
+post.err
+reel.json
+reel.err
+verification-*.json
+server.env
+*.cookies
+cache/
+/-ld *

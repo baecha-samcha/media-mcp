@@ -1,0 +1,8 @@
+# HTTP/MCP server; yt-dlp also provides the existing Instagram HTTP transport.
+yt-dlp==2026.8.19
+fastapi==0.141.1
+uvicorn==0.53.0
+mcp==2.2.0
+# Already present in requirements.lock/venv; now direct OAuth dependencies.
+cryptography==50.0.1
+python-multipart==0.0.32

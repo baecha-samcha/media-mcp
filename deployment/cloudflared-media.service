@@ -1,0 +1,23 @@
+[Unit]
+Description=Dedicated Cloudflare Tunnel for media-mcp
+Wants=network-online.target
+After=network-online.target media-mcp.service
+
+[Service]
+Type=simple
+User=baecha
+Group=baecha
+ExecStart=/usr/bin/cloudflared --no-autoupdate --config /home/baecha/.cloudflared/media-mcp.yml tunnel run
+Restart=on-failure
+RestartSec=5
+TimeoutStopSec=15
+UMask=0077
+NoNewPrivileges=yes
+PrivateTmp=yes
+ProtectSystem=strict
+ProtectHome=read-only
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

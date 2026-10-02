@@ -1,0 +1,10 @@
+# Dedicated locally-managed tunnel; replace UUID in both places.
+tunnel: REPLACE_WITH_TUNNEL_UUID
+credentials-file: /home/baecha/.cloudflared/REPLACE_WITH_TUNNEL_UUID.json
+
+ingress:
+  - hostname: media.baecha.xyz
+    service: http://127.0.0.1:8765
+    originRequest:
+      connectTimeout: 10s
+  - service: http_status:404
